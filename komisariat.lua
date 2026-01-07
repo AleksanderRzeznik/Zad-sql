@@ -50,4 +50,13 @@ szkolenia
 8.kontrola_sprawności_sprzętu
 data_kontroli
 id_kotroli
+
 następna_kontrola
+
+CREATE TABLE Sprzęt,
+CREATE TABLE zatrzymania,
+CREATE TABLE funkcjonariusze,
+CREATE TABLE radiowozy,
+CREATE TABLE badania_funkcjonariuszy,
+CREATE TABLE zwwierzęta_służące_w_komisariacie,
+CREATE TABLE kontrola_sprawności_sprzętu
